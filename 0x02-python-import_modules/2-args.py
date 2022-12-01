@@ -1,5 +1,3 @@
-cutable File  15 lines (13 sloc)  382 Bytes
-
 #!/usr/bin/python3
 
 if __name__ == "__main__":
